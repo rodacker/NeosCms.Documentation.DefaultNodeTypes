@@ -11,7 +11,7 @@ The default NodeTypes package provides the following NodeType Mixin:
 
 
 TYPO3.Neos.NodeTypes:TitleMixin
-----------
+-------------------------------
 providing a property to use as a inline editable headline inside any NodeType
 ::
 
@@ -34,7 +34,7 @@ providing a property to use as a inline editable headline inside any NodeType
                 'a': TRUE
 
 TYPO3.Neos.NodeTypes:TextMixin
----------
+------------------------------
 proving a text property with full rte inline editable support
 ::
 
@@ -71,7 +71,7 @@ proving a text property with full rte inline editable support
                 'a': TRUE
 
 TYPO3.Neos.NodeTypes:ImageMixin
-----------
+-------------------------------
 providing three properties (image, alternativeText, title) to add single image support to other NodeTypes
 ::
 
@@ -110,7 +110,7 @@ providing three properties (image, alternativeText, title) to add single image s
               position: 150
 
 TYPO3.Neos.NodeTypes:ImageCaptionMixin
------------------
+--------------------------------------
 providing a hasCaption (checkbox style) and caption property
 ::
 
@@ -135,7 +135,7 @@ providing a hasCaption (checkbox style) and caption property
               autoparagraph: TRUE
 
 TYPO3.Neos.NodeTypes:ImageAlignmentMixin
--------------------
+----------------------------------------
 providing a property `alignment` (selectbox with options '', left, center, right)
 ::
 
@@ -165,7 +165,7 @@ providing a property `alignment` (selectbox with options '', left, center, right
                     label: 'Right'
 
 TYPO3.Neos.NodeTypes:LinkMixin
----------
+------------------------------
 providing a property **link** and integrates the link editor
 ::
 
@@ -182,7 +182,7 @@ providing a property **link** and integrates the link editor
               editor: 'TYPO3.Neos/Inspector/Editors/LinkEditor'
 
 TYPO3.Neos.NodeTypes:ContentImageMixin
------------------
+--------------------------------------
 combining the Image, Image caption, Image Alignment and Link Mixin and configuring a inspector image group
 ::
 

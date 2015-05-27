@@ -53,3 +53,4 @@ TYPO3.Neos.NodeTypes:Page
             layout:
               label: 'Layout'
               position: 150
+
