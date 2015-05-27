@@ -226,7 +226,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'NeosCMsDocumentationDefaultNodeTypes.tex', u'NeosCMs.Documentation.DefaultNodeTypes Documentation',
-   u'Patrick Rodacker', 'manual'),
+   u'Neos Doc Team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
