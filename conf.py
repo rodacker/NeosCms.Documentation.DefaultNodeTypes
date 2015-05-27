@@ -49,9 +49,9 @@ source_suffix = '.rst'
 master_doc = 'Index'
 
 # General information about the project.
-project = u'NeosCMs.Documentation.DefaultNodeTypes'
-copyright = u'2015, Patrick Rodacker'
-author = u'Patrick Rodacker'
+project = u'Neos Default NodeTypes'
+copyright = u'2015, Neos Doc Team'
+author = u'Neso Doc Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
